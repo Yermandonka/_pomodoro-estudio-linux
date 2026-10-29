@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Pomodoro de estudio
+Comment=Temporizador pomodoro flotante, siempre visible
+Exec=python3 /home/yermandonka/Projects/_pomodoro-estudio-linux/pomodoro.py
+Icon=/home/yermandonka/Projects/_pomodoro-estudio-linux/icon.svg
+Categories=Utility;Clock;
+StartupWMClass=pomodoro-estudio
+StartupNotify=false
